@@ -1,5 +1,4 @@
-scibi borob
-*boom*
+gaming yeah gaming
 
 <!---
 1nfameArts/1nfameArts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
