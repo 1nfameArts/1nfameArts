@@ -5,5 +5,7 @@ I store nothing about you on my servers. No data is collected besides what's nee
 Data is typically temporarily stored until bot reboot. Bot reboots are unannounced.
 List of affected bots:
 * None yet :)
+
 **The following bots will remember across sessions:**
+  
 * Luckily I'm not that serious, yet.
